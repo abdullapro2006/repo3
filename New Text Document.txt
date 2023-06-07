@@ -1,4 +1,5 @@
 Hello world!!
-Bu gun dersimiz saat 7 de baslayacaq
+Bu gun hava qarlidir!
 Hello earth
 Full stack maraqli bir sahedir!
+Men bu saheni sevirem!
