@@ -1,3 +1,4 @@
 Hello world!!
 Bu gun dersimiz saat 7 de baslayacaq
 Hello earth
+Full stack maraqli bir sahedir!
